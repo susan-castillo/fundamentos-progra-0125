@@ -1,0 +1,2 @@
+string nombre_de_la_variable = "valor";
+6
