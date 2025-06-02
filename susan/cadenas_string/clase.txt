@@ -1,2 +1,20 @@
-string nombre_de_la_variable = "valor";
-6
+string nombre_de_la_variable = "string";
+char nombre_de_la_variable = 'caracter'
+
+PEPITO
+
+¿Como accedo a la I?
+nombre_de_la_variable[3]
+
+Lee solo la primera palabra de la frase
+- cin >> frase;
+Lee toda la frase
+- getline(cin, frase);
+
+FUNCIONES PARA MANEJO DE CADENAS:
+1. Cantidad de caracteres:
+cadena.lenght();
+
+2. Invertir cadena:
+cadena.strev();
+
