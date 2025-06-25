@@ -36,20 +36,20 @@ int main()
     cout << "Los números positivos son:" << endl;
     pos >> dato;
 
-    while (!pos.eof() {
+    while (!pos.eof()) {
         cout << dato << endl;
         pos >> dato;
-    })
-        ;
+    }
+        
 
     cout << "Los números negativos son:" << endl;
     neg >> dato;
 
-    while (!neg.eof() {
+    while (!neg.eof()) {
         cout << dato << endl;
         neg >> dato;
-    })
-        ;
+    }
+        
 
     pos.close();
     neg.close();
